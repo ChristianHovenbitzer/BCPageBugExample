@@ -1,6 +1,7 @@
 # Simple example on group captions and additional fields
 
 This is an example how group captions get moved when there is an field with importance additional specified but hidden.
+This issue does not appear in Firefox Version 119.0.
 
 
 ![Screenshot](https://github.com/ChristianHovenbitzer/BCPageBugExample/blob/master/ExampleScreenshot.jpg)

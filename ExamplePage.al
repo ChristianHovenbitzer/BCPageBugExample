@@ -1,7 +1,3 @@
-// Welcome to your new AL extension.
-// Remember that object names and IDs should be unique across all extensions.
-// AL snippets start with t*, like tpageext - give them a try and happy coding!
-
 page 50100 ExamplePage
 {
     PageType = List;
@@ -31,28 +27,7 @@ page 50100 ExamplePage
                     {
 
                     }
-
                 }
-            }
-        }
-        area(Factboxes)
-        {
-
-        }
-    }
-
-    actions
-    {
-        area(Processing)
-        {
-            action(ActionName)
-            {
-                ApplicationArea = All;
-
-                trigger OnAction();
-                begin
-
-                end;
             }
         }
     }
