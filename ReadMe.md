@@ -3,7 +3,7 @@
 This is an example how group captions get moved when there is an field with importance additional specified but hidden.
 
 
-![Screenshot](.\ExampleScreenshot.jpg)
+![Screenshot](https://github.com/ChristianHovenbitzer/BCPageBugExample/blob/master/ExampleScreenshot.jpg)
 
 Tested on 
 - Microsoft Edge for Business version 118.0.2088.69
